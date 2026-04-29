@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Database files (keep schema, not data)
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+secrets.toml
+config.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Temp / patch scripts
+patch_pages.py
+patch_pages_v2.py
+
+# Node modules
+node_modules/
+
+# Large generated files
+backend/assets/samples/*.png

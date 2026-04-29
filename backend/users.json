@@ -1,0 +1,38 @@
+[
+  {
+    "email": "admin@dip.edu",
+    "password_hash": "02f2ff97dd502ba3a35b36daee3e7729795302d3a2094f21dceb4a6ad039782b",
+    "username": "admin",
+    "role": "admin"
+  },
+  {
+    "email": "student@dip.edu",
+    "password_hash": "478cff657390f9bc8800ac47ec169f930ff64cab9c08207c8fa4ceb6d3917548",
+    "username": "student",
+    "role": "student"
+  },
+  {
+    "email": "guest@dip.edu",
+    "password_hash": "84983c60f7daadc1cb8698621f802c0d9f9a3c3c295c810748fb048115c186ec",
+    "username": "guest",
+    "role": "guest"
+  },
+  {
+    "email": "test@test.com",
+    "password_hash": "937e8d5fbb48bd4949536cd65b8d35c426b80d2f830c5c308e2cdec422ae2244",
+    "username": "tester",
+    "role": "student"
+  },
+  {
+    "email": "nishanthnaik21@gmail.com",
+    "password_hash": "dffe46ad3cf8d26c0efbc45f4ffd3e83605c6ff71578a17612cceac23fff2d16",
+    "username": "Nishanth",
+    "role": "student"
+  },
+  {
+    "email": "23g40.nishanth@sjec.ac.in",
+    "password_hash": "8797814276a83069ff95c5ae2b5cb1b274e5b479c573914645104118e7540cd8",
+    "username": "Nishanth Naik",
+    "role": "student"
+  }
+]
